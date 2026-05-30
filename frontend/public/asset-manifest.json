@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.a41f0b08.js",
+    "static/media/mindspark.png": "/static/media/mindspark.195bf4fead369e779096.png",
+    "static/media/balloon1.png": "/static/media/balloon1.fce03a48954322a6c0f4.png",
+    "static/media/background.png": "/static/media/background.9ffe5c3b4d0d94e19f00.png",
+    "static/media/shapes.png": "/static/media/shapes.b2d0394ea5045a2254a2.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a41f0b08.js"
+  ]
+}
